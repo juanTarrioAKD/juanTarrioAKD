@@ -5,7 +5,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img align="right" src="https://github.com/user-attachments/assets/01305660-6930-41f0-a92b-4f699d615700" alt="GIF de Racing" width="500">
 
 - 📫 How to reach me **juantarriotkd@gmail.com**
 
