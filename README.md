@@ -24,9 +24,7 @@
 </p>
 
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
-
  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cs,js,css,django,py,react,ts,vscode" alt="My Skills" />
 </a>
